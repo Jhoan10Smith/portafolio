@@ -6,7 +6,7 @@ var dialogs = {
         timer = 200;
     },
     value1: function() {
-        texts = " Programador de software";
+        texts = " Programador de Software";
         timer = 200;
     }
 };
